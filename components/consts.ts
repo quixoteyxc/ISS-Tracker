@@ -7,17 +7,17 @@ export const DAYS_OF_WEEK: string[] = [
   "Friday",
   "Saturday",
 ];
-export const MONTHS=[
-    "Jan",
-    "Feb",
-    "Mar",
-    "Apr",
-    "May",
-    "Jun",
-    "Jul",
-    "Aug",
-    "Sep",
-    "Oct",
-    "Nov",
-    "Dec"
-]
+export const MONTHS: string[] = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "Apr",
+  "May",
+  "Jun",
+  "Jul",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
